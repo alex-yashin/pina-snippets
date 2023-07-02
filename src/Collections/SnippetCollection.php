@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Snippets\Collections;
+namespace PinaSnippets\Collections;
 
-use App\Snippets\SQL\SnippetGateway;
+use PinaSnippets\SQL\SnippetGateway;
 use Pina\Data\DataCollection;
 use Pina\Data\Schema;
 

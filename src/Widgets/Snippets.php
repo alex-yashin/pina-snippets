@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Snippets\Widgets;
+namespace PinaSnippets\Widgets;
 
-use App\Snippets\SQL\SnippetGateway;
+use PinaSnippets\SQL\SnippetGateway;
 use Pina\Controls\Control;
 
 class Snippets extends Control

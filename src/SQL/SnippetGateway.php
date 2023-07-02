@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Snippets\SQL;
+namespace PinaSnippets\SQL;
 
-use App\Snippets\Types\HtmlCodeType;
+use PinaSnippets\Types\HtmlCodeType;
 use Pina\Data\Schema;
 use Pina\TableDataGateway;
 use Pina\Types\EnabledType;

@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Snippets;
+namespace PinaSnippets;
 
-use App\Snippets\Endpoints\SnippetEndpoint;
+use PinaSnippets\Endpoints\SnippetEndpoint;
 use Pina\App;
 use Pina\ModuleInterface;
 use PinaDashboard\Dashboard;

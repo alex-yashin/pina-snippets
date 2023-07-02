@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Snippets\Endpoints;
+namespace PinaSnippets\Endpoints;
 
-use App\Snippets\Collections\SnippetCollection;
+use PinaSnippets\Collections\SnippetCollection;
 use Pina\App;
 use Pina\Http\DelegatedCollectionEndpoint;
 use Pina\Http\Request;

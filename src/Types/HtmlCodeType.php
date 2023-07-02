@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Snippets\Types;
+namespace PinaSnippets\Types;
 
 use Pina\App;
 use Pina\Controls\FormControl;
