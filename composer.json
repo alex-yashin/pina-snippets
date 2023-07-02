@@ -1,0 +1,27 @@
+{
+    "name": "alex-yashin/pina-snippets",
+    "keywords": ["php"],
+    "license": "MIT",
+    "homepage": "https://github.com/alex-yashin/pina-snippets/",
+    "support": {
+        "issues": "https://github.com/alex-yashin/pina-snippets/issues",
+        "source": "https://github.com/alex-yashin/pina-snippets/"
+    },
+    "authors": [
+        {
+            "name": "Alex Yashin",
+            "email": "alex-yashin@ya.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "pinahq/framework": "*",
+        "alex-yashin/pina-dashboard": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "PinaSnippets\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
